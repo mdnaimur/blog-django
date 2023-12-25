@@ -1,10 +1,10 @@
 #  People's Boards- Blog apps
 
-*Python-Django Based Apps
+*Python-Django Based Apps*
 
 ## Description
 
-The **People's Boards* is an online platform dedicated to communication and sharing Opinions and Thoughts Based On Topic. 
+The *People's Boards* is an online platform dedicated to communication and sharing Opinions and Thoughts Based On Topic. 
 
 ## Features 
 1. User Authentication 
@@ -25,7 +25,7 @@ The **People's Boards* is an online platform dedicated to communication and shar
 
 - **Home Page:** Can See all User Blogging and Post
 
-<img src="static/img/blogimage/home.png" style="width:400px; height:300px" alt="image" />
+<img src="static/img/blogimage/homepage.png" style="width:400px; height:300px" alt="image" />
 
 
 - **Individual Blog Posting :** 
