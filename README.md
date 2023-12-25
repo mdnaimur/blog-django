@@ -18,24 +18,24 @@ The **People's Boards* is an online platform dedicated to communication and shar
 - **User Authentication:** User can create an account and loggedIn.
 
 * Sign Up Form *
-<img src="blogimage/singnup.png" style="width:400px; height:300px" alt="image" />
+<img src="static/img/blogimage/singnup.png" style="width:400px; height:300px" alt="image" />
 
 * LogIn Form *
-<img src="blogimage/singnup.png" style="width:400px; height:300px" alt="image" />
+<img src="static/img/blogimage/singnup.png" style="width:400px; height:300px" alt="image" />
 
 - **Home Page:** Can See all User Blogging and Post
 
-<img src="blogimage/home.png" style="width:400px; height:300px" alt="image" />
+<img src="static/img/blogimage/home.png" style="width:400px; height:300px" alt="image" />
 
 
 - **Individual Blog Posting :** 
 
-<img src="blogimage/blogPost.png" style="width:400px; height:300px" alt="image" />
+<img src="static/img/blogimage/blogPost.png" style="width:400px; height:300px" alt="image" />
 
 - **Comment and Reply Option:** 
 
-<img src="blogimage/blogReplay.png" style="width:400px; height:300px" alt="image" />
-<img src="blogimage/replayConverstion.png" style="width:400px; height:300px" alt="image" />
+<img src="static/img/blogimage/blogReplay.png" style="width:400px; height:300px" alt="image" />
+<img src="static/img/blogimage/replayConverstion.png" style="width:400px; height:300px" alt="image" />
 
 
 ## Getting Started
